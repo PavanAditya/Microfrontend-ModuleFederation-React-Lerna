@@ -2,7 +2,7 @@
 
 ```
 Micro Frontends is a concept of sharing components as modules/services with different frontend applications, without actually exporting the app as a whole.
-This is a frontend-relica to the concept of Microservices used in any API building backend.
+This is a frontend-replica to the concept of Microservices used in any API building backend.
 ```
 
 
